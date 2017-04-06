@@ -1,5 +1,5 @@
 galaxy_info:
-  author: your name
+  author: Jacob A. Hudson
   description: 
   company: your company (optional)
   
@@ -125,9 +125,9 @@ galaxy_info:
   #  - 9.1
   #  - 9.2
   #  - 9.3
-  #- name: Ubuntu
-  #  versions:
-  #  - all
+  - name: Ubuntu
+    versions:
+    - all
   #  - lucid
   #  - maverick
   #  - natty
