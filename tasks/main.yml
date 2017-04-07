@@ -68,3 +68,6 @@
 
 - name: Ensure Node.js and npm are installed.
   apt: "name=nodejs={{ nodejs_version|regex_replace('x', '') }}* state=present"
+
+- name: Install Firebase Tools
+  command: npm install -g firebase-tools
