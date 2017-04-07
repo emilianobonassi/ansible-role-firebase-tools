@@ -1,6 +1,6 @@
 ---
 # tasks file for firebase-tools
-
+# Documentation:  https://firebase.google.com/docs/hosting/quickstart#install-the-firebase-cli
 - name: Define nodejs_install_npm_user
   set_fact:
     nodejs_install_npm_user: "{{ ansible_user }}"
