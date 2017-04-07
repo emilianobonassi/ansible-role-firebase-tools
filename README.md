@@ -1,4 +1,5 @@
 # firebase-tools
+[![Build Status](https://travis-ci.org/jacob-hudson/ansible-role-firebase-tools.svg?branch=master)](https://travis-ci.org/jacob-hudson/ansible-role-firebase-tools)
 =========
 
 A brief description of the role goes here.
